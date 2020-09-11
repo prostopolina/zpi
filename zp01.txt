@@ -1,3 +1,6 @@
 Hello, I am Zavalenova Polina
 Something new on master
+I have an email address
+Experiment 1
+Remote repository is ready
 Again on master
